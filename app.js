@@ -63,7 +63,7 @@ app.get("/",(req, res)=>{
 //             price,
 //             description
 //         })
-//        const productData = await new Product.save();
+//        const productData = await newProduct.save();
 
 //         res.status(201).send(productData)
 //     } catch (error) {
